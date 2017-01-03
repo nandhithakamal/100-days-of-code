@@ -7,3 +7,8 @@
 
 **Link to work**
 1.[Random Quote Machine](https://codepen.io/nandhithakamal/pen/PWYKzY)
+
+### Day 2 : Jan 2nd, 2017
+**Today's Progress**: Researched Weather APIs for the Weather application. 
+
+**Thoughts**: Its really difficult to analyse and pick an API. Learning to use APIs can be tricky.
